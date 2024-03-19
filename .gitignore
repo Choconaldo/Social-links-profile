@@ -15,4 +15,4 @@
 .DS_Store
 .prettierignore
 # Temporary ignore
-*.md
+style-guide.md
